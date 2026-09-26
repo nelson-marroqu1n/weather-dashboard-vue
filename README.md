@@ -78,7 +78,8 @@ Ir a la dirección que indique la terminal (por defecto `http://localhost:5173`)
 
 <!-- Agregar aquí una captura de pantalla de la aplicación -->
 
-![Captura de pantalla del proyecto](ruta/a/la/captura.png)
+<img width="937" height="720" alt="screenshots-demo" src="https://github.com/user-attachments/assets/50eb581b-398e-44f5-b6cd-7cc648a54232" />
+
 
 ---
 
@@ -86,7 +87,7 @@ Ir a la dirección que indique la terminal (por defecto `http://localhost:5173`)
 
 <!-- Agregar aquí el enlace a la demo publicada, si corresponde -->
 
-**[Ver demo en vivo](https://enlace-a-tu-demo.com)**
+**[Ver demo en vivo](https://weather-dashboard-vue-seven.vercel.app)**
 
 ---
 
