@@ -57,3 +57,5 @@ npm run dev
 Ir a la dirección que indique la terminal (por defecto http://localhost:5173).
 
 📸 Captura de pantalla
+<img width="937" height="720" alt="image" src="https://github.com/user-attachments/assets/187e0e3d-c002-4a1b-9a5d-7ad73be9b5f3" />
+
