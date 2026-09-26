@@ -12,37 +12,48 @@ Un servicio de clima, para obtener las condiciones meteorológicas actuales a pa
 La interfaz completa está en español y no requiere configuración de credenciales ni claves de API para funcionar.
 
 ✨ Funciones
-Búsqueda de ciudades y consulta de su clima actual.
-Visualización de:
+🔍 Búsqueda de ciudades y consulta de su clima actual.
+📊 Visualización de datos climáticos:
 Nombre de la ciudad y país.
 Temperatura actual.
 Descripción de las condiciones climáticas.
 Humedad.
 Velocidad del viento.
 Fecha y hora locales.
-Historial de búsquedas:
+🕘 Historial de búsquedas:
 Volver a consultar ciudades buscadas anteriormente.
 Eliminar ciudades del historial.
-Interfaz completamente en español.
+🌐 Interfaz completamente en español.
 🛠️ Tecnologías
-Vue 3
-Vite
-JavaScript
-Pinia (manejo de estado)
-Vue Router
-Bootstrap
-Axios
-Open-Meteo API (geocodificación y clima)
+Tecnología	Uso
+Vue 3	Framework principal
+Vite	Entorno de desarrollo y build
+JavaScript	Lenguaje del proyecto
+Pinia	Manejo de estado
+Vue Router	Enrutamiento
+Bootstrap	Estilos e interfaz
+Axios	Peticiones HTTP
+Open-Meteo API	Geocodificación y datos del clima
 🚀 Instalación y ejecución
-Clonar el repositorio:
+
+1. Clonar el repositorio
+
 bash
-   git clone https://github.com/tu-usuario/weather-dashboard.git
-   cd weather-dashboard
-Instalar las dependencias:
+git clone https://github.com/tu-usuario/weather-dashboard.git
+cd weather-dashboard
+
+2. Instalar las dependencias
+
 bash
-   npm install
-Ejecutar el proyecto en modo desarrollo:
+npm install
+
+3. Ejecutar el proyecto en modo desarrollo
+
 bash
-   npm run dev
-Abrir la aplicación en el navegador en la dirección que indique la terminal (por defecto http://localhost:5173).
+npm run dev
+
+4. Abrir la aplicación
+
+Ir a la dirección que indique la terminal (por defecto http://localhost:5173).
+
 📸 Captura de pantalla
