@@ -88,9 +88,3 @@ Ir a la dirección que indique la terminal (por defecto `http://localhost:5173`)
 <!-- Agregar aquí el enlace a la demo publicada, si corresponde -->
 
 **[Ver demo en vivo](https://weather-dashboard-vue-seven.vercel.app)**
-
----
-
-## 📄 Licencia
-
-<!-- Agregar aquí el tipo de licencia del proyecto, si corresponde -->
